@@ -1,15 +1,14 @@
 ---
-title: 更新日志
-description: 
+title: 整合包更新日志
+description: 官方提供的整合包的更新日志。实时更新。
 published: true
-date: 2026-01-11T06:04:45.088Z
-tags: 
+date: 2026-04-04T06:26:56.634Z
+tags: 公告, 更新
 editor: markdown
 dateCreated: 2025-11-02T15:26:06.982Z
 ---
 
- # 更新日志
- ## AC整合包
+## AC整合包
  提供了许多优化和生电辅助mod，注意本包有大量键位冲突，自行修改。
  
  **mod列表**
