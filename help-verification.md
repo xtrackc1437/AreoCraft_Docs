@@ -1,8 +1,8 @@
 ---
-title: 帮助:入服审核
+title: 审核流程
 description: 对入服审核方式和流程的介绍
 published: false
-date: 2026-03-29T16:44:42.992Z
+date: 2026-04-04T06:23:34.569Z
 tags: 审核, 帮助
 editor: markdown
 dateCreated: 2026-03-29T16:44:09.589Z
