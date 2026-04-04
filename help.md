@@ -1,9 +1,9 @@
 ---
-title: 服务器帮助
-description: 
+title: 附加内容
+description: 关于服务器对游戏机制修改内容的介绍
 published: true
-date: 2025-12-25T04:44:48.120Z
-tags: 
+date: 2026-04-04T06:11:38.677Z
+tags: 帮助
 editor: markdown
 dateCreated: 2025-07-03T01:27:36.860Z
 ---
